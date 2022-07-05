@@ -27,3 +27,23 @@
 .freecodecamp-logo {
     height: 40px;
 }
+
+.contenedor-calculadora {
+    width: 400px;
+    height: 600px;
+
+    padding: 14px;
+
+    background-color: #99c9ff;
+
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.fila {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 4px;
+}
