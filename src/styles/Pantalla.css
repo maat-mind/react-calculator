@@ -1,0 +1,24 @@
+.input {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    height: 80px;
+
+    padding: 11px;
+    padding-right: 30px;
+    
+    margin: 1px solid #888;
+    margin-bottom: 20px;
+
+    background-color: powderblue;
+    color: black;
+
+    box-shadow: -1px 4px 1px 1px white;
+
+    font-size: 35px;
+    font-weight: bold;
+    
+    border: 2px solid white;
+    border-radius: 35px;
+}
